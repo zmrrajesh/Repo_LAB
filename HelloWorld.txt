@@ -1,0 +1,6 @@
+### first Git hub file to be exposed on Github Project
+
+public static void main(String args[])
+{
+  System.out.println("Hello, this is a Github project for you nice students");
+  }
